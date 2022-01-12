@@ -16,7 +16,8 @@ RippleNet is a decentralized global network that enables financial institutions,
 
 
 **Sources**
-https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
+[Investopedia](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
+
 https://www.crunchbase.com/organization/ripple-labs/signals_and_news/timeline
 https://www.tandfonline.com/doi/full/10.1080/17530350.2020.1711532#
 https://www.tandfonline.com/doi/full/10.1080/17530350.2020.1711532
